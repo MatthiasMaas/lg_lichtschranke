@@ -1,0 +1,100 @@
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
+Hinweis: Verarbeite Symbol "J1:Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm".
+Hinweis: Verarbeite Symbol "R3:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "U1:Package_DIP:DIP-14_W7.62mm_Socket_LongPads".
+Hinweis: Verarbeite Symbol "J2:Connector_Wire:SolderWire-0.75sqmm_1x04_P4.8mm_D1.25mm_OD2.3mm".
+U1 Felder aktualisiert.
+R2 Footprint-Filter auf "R_*" aktualisiert.
+Symbolverknüpfung U1 von  nach /162a890c-7034-4147-b745-bb09797158c7 aktualisiert.
+Wert U1 von DIP-14_W7.62mm_Socket_LongPads in 74LS14 geändert.
+Referenzbezeichner REF** in U1 geändert.
+U1 hinzugefügt (Footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads").
+R3 Pin 1 nach VCC verbunden.
+R3 Pin 2 nach Net-(R3-Pad2) verbunden.
+Netz Net-(R3-Pad2) hinzufügen.
+R3 Footprint-Filter auf "R_*" aktualisiert.
+Blattname von R3 auf "photogate.kicad_sch" aktualisiert.
+Schaltplanblatt R3 auf / aktualisiert.
+R3 Felder aktualisiert.
+Symbolverknüpfung R3 von  nach /d3e6d408-fbd0-45ab-9f81-2854ad275be3 aktualisiert.
+Wert R3 von R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical in 1k geändert.
+Referenzbezeichner REF** in R3 geändert.
+R3 hinzugefügt (Footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical").
+R2 Pin 2 nach Net-(J2-Pin_1) verbunden.
+R2 Pin 1 nach VCC verbunden.
+R2 Felder aktualisiert.
+U1 Pin 4 nach unconnected-(U1-Pad4) verbunden.
+
+
+U1 Pin 14 nach VCC verbunden.
+U1 Pin 6 nach unconnected-(U1-Pad6) verbunden.
+Netz unconnected-(U1-Pad6) hinzufügen.
+U1 Pin 1 nach Net-(J2-Pin_1) verbunden.
+U1 Pin 3 nach Net-(R3-Pad2) verbunden.
+U1 Pin 8 nach unconnected-(U1-Pad8) verbunden.
+Netz unconnected-(U1-Pad8) hinzufügen.
+U1 Pin 10 nach unconnected-(U1-Pad10) verbunden.
+Netz unconnected-(U1-Pad10) hinzufügen.
+Schaltplanblatt U1 auf / aktualisiert.
+Netz unconnected-(U1-Pad4) hinzufügen.
+U1 Pin 7 nach GND verbunden.
+U1 Pin 13 nach Net-(R3-Pad2) verbunden.
+U1 Pin 11 nach Net-(R3-Pad2) verbunden.
+U1 Pin 2 nach Net-(J1-Pin_2) verbunden.
+U1 Pin 9 nach Net-(R3-Pad2) verbunden.
+U1 Pin 5 nach Net-(R3-Pad2) verbunden.
+U1 Pin 12 nach unconnected-(U1-Pad12) verbunden.
+Netz unconnected-(U1-Pad12) hinzufügen.
+U1 Footprint-Filter auf "DIP*W7.62mm*" aktualisiert.
+Blattname von U1 auf "photogate.kicad_sch" aktualisiert.
+J1 Pin 2 nach Net-(J1-Pin_2) verbunden.
+Blattname von J2 auf "photogate.kicad_sch" aktualisiert.
+Schaltplanblatt J2 auf / aktualisiert.
+J2 Felder aktualisiert.
+Symbolverknüpfung J2 von  nach /8834b957-aea4-41a4-bc40-6b62d6cf2730 aktualisiert.
+Wert J2 von SolderWire-0.75sqmm_1x04_P4.8mm_D1.25mm_OD2.3mm in Conn_01x04_Pin geändert.
+Referenzbezeichner REF** in J2 geändert.
+J2 hinzugefügt (Footprint "Connector_Wire:SolderWire-0.75sqmm_1x04_P4.8mm_D1.25mm_OD2.3mm").
+J1 Pin 3 nach VCC verbunden.
+Netz VCC hinzufügen.
+J1 Pin 1 nach GND verbunden.
+Netz GND hinzufügen.
+J2 Footprint-Filter auf "Connector*:*_1x??_*" aktualisiert.
+Netz Net-(J1-Pin_2) hinzufügen.
+J1 Fertigungsattribut "Von Stückliste ausschließen" entfernt.
+J1 Footprint-Filter auf "Connector*:*_1x??_*" aktualisiert.
+Blattname von J1 auf "photogate.kicad_sch" aktualisiert.
+Schaltplanblatt J1 auf / aktualisiert.
+J1 Felder aktualisiert.
+Symbolverknüpfung J1 von  nach /335178db-2da6-475d-978e-c52ceeef47a9 aktualisiert.
+Wert J1 von SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm in Conn_01x03_Pin geändert.
+Referenzbezeichner REF** in J1 geändert.
+J1 hinzugefügt (Footprint "Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm").
+Symbolverknüpfung R1 von  nach /9185b934-2cac-4bef-aaaa-310fab13b819 aktualisiert.
+Schaltplanblatt R2 auf / aktualisiert.
+Symbolverknüpfung R2 von  nach /7a535a1a-b6a4-4637-871a-c7f4823ef9c9 aktualisiert.
+Wert R2 von R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical in 47k geändert.
+Referenzbezeichner REF** in R2 geändert.
+R2 hinzugefügt (Footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical").
+R1 Pin 2 nach Net-(J2-Pin_4) verbunden.
+R1 Pin 1 nach VCC verbunden.
+R1 Footprint-Filter auf "R_*" aktualisiert.
+Blattname von R1 auf "photogate.kicad_sch" aktualisiert.
+Schaltplanblatt R1 auf / aktualisiert.
+R1 Felder aktualisiert.
+Blattname von R2 auf "photogate.kicad_sch" aktualisiert.
+Wert R1 von R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical in 240 geändert.
+Referenzbezeichner REF** in R1 geändert.
+R1 hinzugefügt (Footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical").
+J2 Pin 4 nach Net-(J2-Pin_4) verbunden.
+Netz Net-(J2-Pin_4) hinzufügen.
+J2 Pin 3 nach GND verbunden.
+J2 Pin 2 nach GND verbunden.
+J2 Pin 1 nach Net-(J2-Pin_1) verbunden.
+Netz Net-(J2-Pin_1) hinzufügen.
+J2 Fertigungsattribut "Von Stückliste ausschließen" entfernt.
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
